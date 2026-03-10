@@ -1,5 +1,3 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # ℹ️ RFID Android App For Bundu
 
 ## Step 1: Tech Stack
